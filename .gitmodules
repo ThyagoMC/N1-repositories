@@ -1,0 +1,9 @@
+[submodule "N1-repositories-frontend"]
+	path = N1-repositories-frontend
+	url = https://github.com/ThyagoMC/N1-repositories-frontend.git
+[submodule "N1-repositories-backend"]
+	path = N1-repositories-backend
+	url = https://github.com/ThyagoMC/N1-repositories-backend.git
+[submodule "N1-repositories-native"]
+	path = N1-repositories-native
+	url = https://github.com/ThyagoMC/N1-repositories-native.git
