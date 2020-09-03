@@ -4,4 +4,4 @@ Repository created to group related projects built during the Rocketseat GoStack
 
 To get all the submodules at once use:
 
-git clone --recurse-submodules https://github.com/chaconinc/MainProject
+git clone --recurse-submodules https://github.com/ThyagoMC/N1-repositories.git
